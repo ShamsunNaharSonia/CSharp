@@ -1,0 +1,24 @@
+C:\Users\user\Desktop\PRACTICE SCRIPT\CarDetailsSln\CarDetails\bin\Debug\CarDetails.exe.config
+C:\Users\user\Desktop\PRACTICE SCRIPT\CarDetailsSln\CarDetails\bin\Debug\CarDetails.exe
+C:\Users\user\Desktop\PRACTICE SCRIPT\CarDetailsSln\CarDetails\bin\Debug\CarDetails.pdb
+C:\Users\user\Desktop\PRACTICE SCRIPT\CarDetailsSln\CarDetails\obj\Debug\CarDetails.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\PRACTICE SCRIPT\CarDetailsSln\CarDetails\obj\Debug\CarDetails.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\PRACTICE SCRIPT\CarDetailsSln\CarDetails\obj\Debug\CarDetails.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PRACTICE SCRIPT\CarDetailsSln\CarDetails\obj\Debug\CarDetails.exe
+C:\Users\user\Desktop\PRACTICE SCRIPT\CarDetailsSln\CarDetails\obj\Debug\CarDetails.pdb
+C:\Users\LAB-1\Desktop\CarDetailsSln\CarDetails\bin\Debug\CarDetails.exe.config
+C:\Users\LAB-1\Desktop\CarDetailsSln\CarDetails\bin\Debug\CarDetails.exe
+C:\Users\LAB-1\Desktop\CarDetailsSln\CarDetails\bin\Debug\CarDetails.pdb
+C:\Users\LAB-1\Desktop\CarDetailsSln\CarDetails\obj\Debug\CarDetails.csproj.AssemblyReference.cache
+C:\Users\LAB-1\Desktop\CarDetailsSln\CarDetails\obj\Debug\CarDetails.csproj.SuggestedBindingRedirects.cache
+C:\Users\LAB-1\Desktop\CarDetailsSln\CarDetails\obj\Debug\CarDetails.csproj.CoreCompileInputs.cache
+C:\Users\LAB-1\Desktop\CarDetailsSln\CarDetails\obj\Debug\CarDetails.exe
+C:\Users\LAB-1\Desktop\CarDetailsSln\CarDetails\obj\Debug\CarDetails.pdb
+C:\Users\user\Downloads\CarDetailsSln\CarDetails\bin\Debug\CarDetails.exe.config
+C:\Users\user\Downloads\CarDetailsSln\CarDetails\bin\Debug\CarDetails.exe
+C:\Users\user\Downloads\CarDetailsSln\CarDetails\bin\Debug\CarDetails.pdb
+C:\Users\user\Downloads\CarDetailsSln\CarDetails\obj\Debug\CarDetails.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\CarDetailsSln\CarDetails\obj\Debug\CarDetails.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\CarDetailsSln\CarDetails\obj\Debug\CarDetails.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\CarDetailsSln\CarDetails\obj\Debug\CarDetails.exe
+C:\Users\user\Downloads\CarDetailsSln\CarDetails\obj\Debug\CarDetails.pdb
